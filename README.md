@@ -1,6 +1,6 @@
 #Olá! Eu sou o Lucas Henrique
 
-🍕 Hoje eu trabalho de pizzaiolo.
+🍕 Hoje eu trabalho de pizzaiolo.1
 
 ✍ Cursando Faculdade de Engenharia de Software.
 
